@@ -96,4 +96,4 @@
 |38|&#x2611; | | Design Bowling Alley Machine |
 |39|&#x2611; | | Design (LLD) Rate Limiter |
 
-[other books of different levels](https://drive.google.com/drive/folders/1E0HFZHb5DZbiVWJcAuPQ0ENPhSBoEk7b)
+[Drive Link for all the Books](https://drive.google.com/drive/folders/1E0HFZHb5DZbiVWJcAuPQ0ENPhSBoEk7b)
