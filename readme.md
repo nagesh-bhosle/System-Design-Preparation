@@ -18,28 +18,28 @@
 
 |Sno|Status|Topics|
 |:--:|:--:|:--:|
-|1|| Learn About Network Protocols (TCP, Websocket, HTTP etc.) |
-|2|| Client-Server Vs Peer 2 Peer Architecture |
-|3|| C.A.P Theorem |
+|1|&#x2611;| Learn About Network Protocols (TCP, Websocket, HTTP etc.) |
+|2|&#x2611;| Client-Server Vs Peer 2 Peer Architecture |
+|3|&#x2611;| C.A.P Theorem |
 |4|| Microservices Imp. Design Patterns (SAGA pattern, Strangler Pattern) |
 |5|| Scale from 0 to Million Users |
 |6|| Design Consistent Hashing |
-|7|| Design URL Shortening |
+|7|&#x2611;| Design URL Shortening |
 |8|| Back of the Envelope Estimation |
-|9|| Design Key-Value Store |
-|10|| SQL vs NoSQL, When to Use Which DB |
+|9|&#x2611;| Design Key-Value Store |
+|10|&#x2611;| SQL vs NoSQL, When to Use Which DB |
 |11|| Design WhatsApp |
 |12|| Design Rate Limiter |
 |13|| Design Search Autocomplete System / Typeahead System |
-|14|| Understand Message Queue , Kafka etc. |
-|15|| What is Proxy Servers |
-|16|| What is CDN |
-|17|| Storage types: (`Block Storage`, `File Storage`, `Object Storage (S3)` , `RAID`) |
-|18|| File System (`Google File System`, `HDFS`) |
+|14|&#x2611;| Understand Message Queue , Kafka etc. |
+|15|&#x2611;| What is Proxy Servers |
+|16|&#x2611;| What is CDN |
+|17|&#x2611;| Storage types: (`Block Storage`, `File Storage`, `Object Storage (S3)` , `RAID`) |
+|18|&#x2611;| File System (`Google File System`, `HDFS`) |
 |19|| Bloom Filter |
 |20|| Merkle Tree , Gossiping Protocol |
-|21|| Caching (`Cache Invalidation`, `Cache eviction`) |
-|22|| How to Scale Database `Sharding (Horizontal and Vertical)` `Partitioning` `Replication`, `Mirroring` `Leader Election` `Indexing` etc. |
+|21|&#x2611;| Caching (`Cache Invalidation`, `Cache eviction`) |
+|22|&#x2611;| How to Scale Database `Sharding (Horizontal and Vertical)` `Partitioning` `Replication`, `Mirroring` `Leader Election` `Indexing` etc. |
 |23|| Design Notification System |
 |24|| Design Pastebin |
 |25|| Design Twitter |
@@ -96,4 +96,4 @@
 |38|&#x2611; | | Design Bowling Alley Machine |
 |39|&#x2611; | | Design (LLD) Rate Limiter |
 
-[other books of different levels](https://drive.google.com/drive/folders/1E0HFZHb5DZbiVWJcAuPQ0ENPhSBoEk7b)
+[Drive Link for all the Books](https://drive.google.com/drive/folders/1E0HFZHb5DZbiVWJcAuPQ0ENPhSBoEk7b)
