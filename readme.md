@@ -97,3 +97,6 @@
 |39|&#x2611; | | Design (LLD) Rate Limiter |
 
 [Drive Link for all the Books](https://drive.google.com/drive/folders/1E0HFZHb5DZbiVWJcAuPQ0ENPhSBoEk7b)
+
+### Bare Minimum to do if short of time for reading books
+1. https://www.geeksforgeeks.org/system-design/complete-roadmap-to-learn-system-design/
