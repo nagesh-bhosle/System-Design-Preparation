@@ -1,4 +1,4 @@
-# System Design Preparation
+# System Design Preparation ([Roadmap](https://www.geeksforgeeks.org/system-design/complete-roadmap-to-learn-system-design/))
 
 1. Prerequisite subjects under MAKAUT include </br>
     `Computer Organisation and Architecture`, `Operating Systems`, `Object Oriented Programming`, `Software Engineering`, `Computer Networks`, `Database Management`, `Distributed Database management`, `Big data`.
