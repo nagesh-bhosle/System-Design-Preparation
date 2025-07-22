@@ -100,3 +100,4 @@
 
 ### Bare Minimum to do if short of time for reading books
 1. https://www.geeksforgeeks.org/system-design/complete-roadmap-to-learn-system-design/
+2. https://gitorko.github.io/post/grokking-the-system-design-interview/
